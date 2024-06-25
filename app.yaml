@@ -1,0 +1,6 @@
+domains:
+- sveltekit-3-65b.wasmer.dev
+kind: wasmer.io/App.v0
+name: cypress2-sveltekit-3-65b
+owner: cypress2
+package: .
